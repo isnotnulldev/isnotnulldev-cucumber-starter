@@ -1,2 +1,2 @@
 # isnotnulldev-cucumber-starter
-A cucumber starter framework that uses Gradle and dependency injection for session management
+This has been moved to my rebranded account, found on https://github.com/slashqa
